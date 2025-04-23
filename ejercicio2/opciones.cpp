@@ -1,4 +1,6 @@
 //opciones.cpp
+/*Nombre : Maria Luisa Munayco Apolaya
+           codigo: U20231C995*/
 #include <iostream>
 #include <vector>
 #include<algorithm>
@@ -133,5 +135,5 @@ void busquedaComparacion(Nodo* cabeza) {
 
 	auto fin = high_resolution_clock::now(); 
 	duration<double> duracion = fin - inicio;  
-	cout << "Tiempo de ejecucion (O(n²)): " << duracion.count() << " segundos.\n";
+	cout << "Tiempo de ejecucion (O(nÂ²)): " << duracion.count() << " segundos.\n";
 }
