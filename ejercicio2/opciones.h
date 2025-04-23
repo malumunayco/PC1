@@ -1,5 +1,7 @@
 #pragma once
 //opciones.h
+/*Nombre : Maria Luisa Munayco Apolaya
+           codigo: U20231C995*/
 #pragma once
 #ifndef OPCIONES_H
 #define OPCIONES_H
