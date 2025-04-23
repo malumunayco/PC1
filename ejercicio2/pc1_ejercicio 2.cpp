@@ -1,4 +1,6 @@
 //main.cpp
+/*Nombre : Maria Luisa Munayco Apolaya
+           codigo: U20231C995*/
 #include <iostream>
 #include <cstdlib> // Para system("cls")
 #include "opciones.h"
